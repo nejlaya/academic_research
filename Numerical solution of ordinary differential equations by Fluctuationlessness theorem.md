@@ -1,7 +1,7 @@
 <h1>Numerical solution of ordinary differential equations by Fluctuationlessness theorem
 </h1> 
 <p>Nejla Altay & Metin Demiralp </p>
-<p><i>Journal of Mathematical Chemistry volume 47, pages1323–1343 (2010)</i></p>
+<p><i>Journal of Mathematical Chemistry volume 47, pages 1323–1343 (2010)</i></p>
 
 <h2>Abstract</h2>
 <p>
