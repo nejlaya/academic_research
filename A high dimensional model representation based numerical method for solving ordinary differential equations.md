@@ -1,9 +1,9 @@
 <h1>A high dimensional model representation based numerical method for solving ordinary differential equations
-</h1> <br>
-<h2>Nejla Altay & Metin Demiralp </h2>
+</h1> 
+<p>Nejla Altay & Metin Demiralp </p>
 <i>Journal of Mathematical Chemistry volume 49, pages687–710 (2011)</i>
 
-<b>Abstract</b> <br>
+<h2>Abstract</h2>
 <p>
 A new numerical method for solving ordinary differential equations by using High Dimensional Model Representation
 (HDMR) has been developed in this work. 
