@@ -2,7 +2,8 @@
 Nejla Altay & Metin Demiralp </h1>
 <i>Journal of Mathematical Chemistry volume 49, pages687–710 (2011)</i>i>
 
-<b>Abstract</b>
+<b>Abstract</b> <br>
+<p>
 A new numerical method for solving ordinary differential equations by using High Dimensional Model Representation
 (HDMR) has been developed in this work. 
 Higher order ordinary differential equations can be reduced to a set of first order ODEs. 
@@ -15,7 +16,7 @@ form a basis set under consideration. The unknown constants in the linear combin
 maximizing the constancy measurer formed in terms of the HDMR components after they are evaluated. 
 Results are compared with well-known step size based numerical methods. 
 A semi qualitative error analysis of the proposed method is also established.
-
+</p>
 
 
 
