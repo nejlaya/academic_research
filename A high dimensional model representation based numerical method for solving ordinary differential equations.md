@@ -1,7 +1,7 @@
 <h1>A high dimensional model representation based numerical method for solving ordinary differential equations
 </h1> 
 <p>Nejla Altay & Metin Demiralp </p>
-<i>Journal of Mathematical Chemistry volume 49, pages687-710 (2011)</i>
+<p><i>Journal of Mathematical Chemistry volume 49, pages687-710 (2011)</i></p>
 
 <h2>Abstract</h2>
 <p>
