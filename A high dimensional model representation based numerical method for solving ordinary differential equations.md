@@ -17,4 +17,4 @@ High dimensional model representation, Interpolation, Orthogonal polynomials, Or
 65L05
 
 
-
+Article: <a href="https://link.springer.com/article/10.1007/s10910-010-9768-1">team</a> 
