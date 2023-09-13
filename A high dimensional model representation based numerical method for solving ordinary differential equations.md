@@ -11,7 +11,8 @@ Although HDMR is generally used for multivariate functions, univariate functions
 </p>
 
 <h3> Keywords </h3>
-High dimensional model representation Interpolation Orthogonal polynomials Ordinary differential equations
+High dimensional model representation, Interpolation, Orthogonal polynomials, Ordinary differential equations
+
 <h3>Mathematics Subject Classification (2000) </h3>
 65L05
 
