@@ -3,7 +3,7 @@ Author links open overlay panel
 </h1> 
 <p>A. Ashyralyev,  N. Altay </p>
 <p><i>Applied Mathematics and Computation
-Volume 175, Issue 1, 1 April 2006, Pages 49-60 </i></p>
+Volume 175, Issue 1, 2006, Pages 49-60 </i></p>
 
 <h2>Abstract</h2>
 <p>
